@@ -14,7 +14,8 @@ Fascinado por desenvolvimento de soluções práticas e simples que facilitam ta
 ##
 
 <div style="display: flex">
-  <h3>Atualmente estudando</h3>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <h3>Atualmente estudando</h3>          
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
           
