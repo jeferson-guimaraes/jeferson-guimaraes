@@ -2,22 +2,21 @@
 
 ## Desenvolvedor Fullstack focado em sistemas web, regras de negócio e soluções que resolvem problemas reais.
 
-Atuo no desenvolvimento de aplicações web com foco em **backend, organização de sistemas, fluxos administrativos e experiência prática de uso**.
+Atuo no desenvolvimento de aplicações web com foco em **organização de sistemas, regras de negócio e sustentabilidade da aplicação ao longo do tempo**.
 
 Tenho experiência principalmente com **PHP, Laravel, React, JavaScript, bancos de dados relacionais e APIs**, além de também já ter trabalhado com **React Native** no desenvolvimento mobile.
 
-Atualmente, sigo evoluindo meus conhecimentos em **Java, Spring Boot, Docker e Vue.js**.
+Atualmente, sigo evoluindo meus conhecimentos em **Java e Spring Boot**.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor Fullstack com experiência em projetos reais e freelancers
+- 💻 Desenvolvedor Fullstack com projetos próprios em produção e experiência em sistemas corporativos de grande porte
 - 🧠 Gosto de entender a **regra de negócio** antes de começar a codar
-- 🛠️ Tenho mais afinidade com **backend, arquitetura, modelagem e organização de sistemas**
-- 🔄 Já atuei com manutenção, evolução e reestruturação de **sistemas legados**
-- 📚 Atualmente expandindo minha stack com **Java, Spring Boot, Docker e Vue.js**
-- 🎯 Buscando crescer com projetos que gerem impacto real e resolvam problemas de verdade
+- 🛠️ Foco em **arquitetura, modelagem e organização de sistemas** — do legado ao moderno
+- 🔄 Experiência com manutenção, evolução e reestruturação de **sistemas legados**
+- 🎯 Minha abordagem: foco na solução, não no problema, de forma prática, simples e funcional
 
 ---
 
@@ -84,6 +83,8 @@ Mais do que apenas trocar tecnologia, esse projeto exigiu compreender profundame
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="vite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="30" alt="Docker logo" />
 </div>
 
 ---
@@ -91,13 +92,9 @@ Mais do que apenas trocar tecnologia, esse projeto exigiu compreender profundame
 ## 📚 Atualmente estudando
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
-  <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/960px-Spring_Boot.svg.png" height="30" width="30" alt="spring boot logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" alt="Java logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/960px-Spring_Boot.svg.png" height="30" alt="Spring boot logo" />
 </div>
 
 ---
