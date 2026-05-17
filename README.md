@@ -1,6 +1,6 @@
 # E aí?! 👋 Eu sou o Jeferson Guimarães
 
-## Desenvolvedor Fullstack | Especialista em Regras de Negócio e Modernização de Sistemas | Consolidando Ecossistema Java & Spring Boot.
+## Desenvolvedor Fullstack | Especialista em Regras de Negócio e Modernização de Sistemas | Aprofundando Arquitetura e Engenharia de Software
 
 Atuo no desenvolvimento de aplicações web com foco em **organização de sistemas, regras de negócio e sustentabilidade do código ao longo do tempo**.
 
@@ -47,7 +47,6 @@ Mais do que apenas trocar tecnologia, esse projeto exigiu compreender profundame
 
 ## 🧩 Stack principal
 
-- Spring Boot
 - Laravel
 - React
 - Inertia.js
@@ -58,10 +57,6 @@ Mais do que apenas trocar tecnologia, esse projeto exigiu compreender profundame
 ## 🛠️ Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="35" alt="Spring boot logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="35" alt="laravel logo" />
@@ -85,10 +80,11 @@ Mais do que apenas trocar tecnologia, esse projeto exigiu compreender profundame
 
 ## 🎯 Foco em Evolução (Java Ecosystem)
 
-- Java 17+ & Spring Boot 3
-- Persistência de dados com Hibernate/JPA
-- Testes unitários com **JUnit 5 e Mockito**
-- Segurança com Spring Security e JWT
+Atualmente aprofundando conhecimentos em arquitetura de software, com foco em escrever código mais organizado, sustentável e alinhado ao domínio do negócio:
+
+- Clean Architecture — separação de responsabilidades, independência de frameworks e inversão de dependências
+- Domain-Driven Design (DDD) — modelagem orientada ao domínio, linguagem ubíqua e organização em torno da lógica de negócio
+- Aplicando esses conceitos na stack principal: Laravel + React + Inertia.js
 
 ---
 
